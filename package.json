@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A CLI calculator made for a Bloc takehome assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devon Bahary",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
